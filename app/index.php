@@ -5,7 +5,7 @@
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
-  <title>Registered bitcot Users</title>
+  <title>Registered Users</title>
   <meta name="description" content="">
   <meta name="author" content="">
 
@@ -38,7 +38,7 @@
       <div class="one column"></div>
       <div class="eleven columns" style="margin-top: 15%">
         <h4>Registered Users</h4>
-        <p>This is the data returned from the bitcot database:</p>
+        <p>This is the data returned from the test-bitcot database:</p>
 
         <table cellpadding="3">
           <thead>
